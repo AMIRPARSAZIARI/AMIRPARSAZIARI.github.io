@@ -1,2 +1,5 @@
-# AMIRPARSAZIARI.github.io
-My personal website
+## Usage
+
+```tozihat
+A scientific calculator made by Amirparsa Ziari©
+```
