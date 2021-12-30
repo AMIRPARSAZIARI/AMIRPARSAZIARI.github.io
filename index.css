@@ -36,7 +36,7 @@ font-size: 29px;
 background: black;
 font-weight: bold;
 margin-bottom: 25px;
-font-family: cursive;
+font-family: Verdana;
 margin-top: #dedede;
 border-bottom: 2px solid #cc4014;
 color: #dedede;
@@ -48,7 +48,7 @@ height: 60px;
 margin-bottom: 20px;
 font-size: 26px;
 font-weight: bold;
-font-family: cursive;
+font-family: Verdana;
 background: #000803;
 border: none;
 color: #d23200;
@@ -59,7 +59,7 @@ button:hover{
 background: #210b04;
 }
 p.copy{
-font-family: cursive;
+font-family: Verdana;
 font-size: 70px;
 color: #FF5722;
 }
